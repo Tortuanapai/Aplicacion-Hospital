@@ -1,0 +1,7 @@
+# Credencials locals: copia settings.example.json a settings.json
+settings.json
+
+# Registres i fitxers generats
+*.log
+__pycache__/
+*.pyc
